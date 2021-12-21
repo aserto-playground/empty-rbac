@@ -1,0 +1,13 @@
+{
+  "roles": {
+    "viewer": {
+      "perms": {}
+    },
+    "editor": {
+      "perms": {}
+    },
+    "admin": {
+      "perms": {}
+    }
+  }
+}
