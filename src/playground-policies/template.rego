@@ -1,4 +1,4 @@
-package untitled
+package template
 
 import input.policy.path
 import input.user.attributes.roles as user_roles
